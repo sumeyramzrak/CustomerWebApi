@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Data\HW_CreateCustomerApi_Data.csproj" />
+    <ProjectReference Include="..\HW_CreateCustomerApi_Common\HW_CreateCustomerApi_Common.csproj" />
+    <ProjectReference Include="..\Services\HW_CreateCustomerApi_Services.csproj" />
+  </ItemGroup>
+
+</Project>

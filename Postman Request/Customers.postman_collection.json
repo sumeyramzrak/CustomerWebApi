@@ -1,0 +1,52 @@
+{
+	"info": {
+		"_postman_id": "b6e2be15-0f57-4294-bb57-d3ac9e954e10",
+		"name": "Customers",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GetCustomersList",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7011/api/Customers/list",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7011",
+					"path": [
+						"api",
+						"Customers",
+						"list"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetById",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7011/api/Customers/get/ALFKI",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7011",
+					"path": [
+						"api",
+						"Customers",
+						"get",
+						"ALFKI"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

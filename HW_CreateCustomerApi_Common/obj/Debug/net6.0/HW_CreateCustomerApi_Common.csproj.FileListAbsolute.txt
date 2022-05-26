@@ -1,0 +1,24 @@
+C:\Users\Sümeyra Mızrak\source\repos\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\bin\Debug\net6.0\HW_CreateCustomerApi_Common.deps.json
+C:\Users\Sümeyra Mızrak\source\repos\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\bin\Debug\net6.0\HW_CreateCustomerApi_Common.dll
+C:\Users\Sümeyra Mızrak\source\repos\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\bin\Debug\net6.0\HW_CreateCustomerApi_Common.pdb
+C:\Users\Sümeyra Mızrak\source\repos\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\obj\Debug\net6.0\HW_CreateCustomerApi_Common.csproj.AssemblyReference.cache
+C:\Users\Sümeyra Mızrak\source\repos\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\obj\Debug\net6.0\HW_CreateCustomerApi_Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sümeyra Mızrak\source\repos\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\obj\Debug\net6.0\HW_CreateCustomerApi_Common.AssemblyInfoInputs.cache
+C:\Users\Sümeyra Mızrak\source\repos\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\obj\Debug\net6.0\HW_CreateCustomerApi_Common.AssemblyInfo.cs
+C:\Users\Sümeyra Mızrak\source\repos\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\obj\Debug\net6.0\HW_CreateCustomerApi_Common.csproj.CoreCompileInputs.cache
+C:\Users\Sümeyra Mızrak\source\repos\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\obj\Debug\net6.0\HW_CreateCustomerApi_Common.dll
+C:\Users\Sümeyra Mızrak\source\repos\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\obj\Debug\net6.0\refint\HW_CreateCustomerApi_Common.dll
+C:\Users\Sümeyra Mızrak\source\repos\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\obj\Debug\net6.0\HW_CreateCustomerApi_Common.pdb
+C:\Users\Sümeyra Mızrak\source\repos\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\obj\Debug\net6.0\ref\HW_CreateCustomerApi_Common.dll
+C:\Users\Sumeyra\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\bin\Debug\net6.0\HW_CreateCustomerApi_Common.deps.json
+C:\Users\Sumeyra\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\bin\Debug\net6.0\HW_CreateCustomerApi_Common.dll
+C:\Users\Sumeyra\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\bin\Debug\net6.0\HW_CreateCustomerApi_Common.pdb
+C:\Users\Sumeyra\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\obj\Debug\net6.0\HW_CreateCustomerApi_Common.csproj.AssemblyReference.cache
+C:\Users\Sumeyra\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\obj\Debug\net6.0\HW_CreateCustomerApi_Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumeyra\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\obj\Debug\net6.0\HW_CreateCustomerApi_Common.AssemblyInfoInputs.cache
+C:\Users\Sumeyra\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\obj\Debug\net6.0\HW_CreateCustomerApi_Common.AssemblyInfo.cs
+C:\Users\Sumeyra\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\obj\Debug\net6.0\HW_CreateCustomerApi_Common.csproj.CoreCompileInputs.cache
+C:\Users\Sumeyra\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\obj\Debug\net6.0\HW_CreateCustomerApi_Common.dll
+C:\Users\Sumeyra\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\obj\Debug\net6.0\refint\HW_CreateCustomerApi_Common.dll
+C:\Users\Sumeyra\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\obj\Debug\net6.0\HW_CreateCustomerApi_Common.pdb
+C:\Users\Sumeyra\HW_Sumeyra_CreateCustomerApi\HW_CreateCustomerApi_Common\obj\Debug\net6.0\ref\HW_CreateCustomerApi_Common.dll
